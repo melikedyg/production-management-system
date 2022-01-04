@@ -1,0 +1,14 @@
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\bin\Debug\ÜretimYS-Proje.exe.config
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\bin\Debug\ÜretimYS-Proje.exe
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\bin\Debug\ÜretimYS-Proje.pdb
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS-Proje.csprojAssemblyReference.cache
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.AnaForm.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.Giriş.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.Operasyon.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.Properties.Resources.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.Reçete.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.İşİstasyonu.resources
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS-Proje.csproj.GenerateResource.cache
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS-Proje.exe
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS-Proje.pdb
+C:\Users\melik\OneDrive\Belgeler\Görsel Programlama\ÜretimYS-Proje\ÜretimYS-Proje\obj\Debug\ÜretimYS_Proje.Çalışan.resources
